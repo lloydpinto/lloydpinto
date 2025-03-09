@@ -2,7 +2,7 @@
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning javascript, python
 - 📫 How to reach me lloydpinto15@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 He/Him
 - ⚡ Fun fact: The only thing more confusing than my code is trying to figure out how Git actually works! 😆
 
 <!---
